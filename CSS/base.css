@@ -11,9 +11,6 @@ header h1 a:visited {
 
 }
 
-header h1 a:hover {
-    color: #000000;
-}
 
 body {
     font: 16px/24px 'Roboto Slab', serif;
