@@ -13,8 +13,9 @@ header h1 a:visited {
 
 
 a:link { 
-        text-decoration: none; 
+        text-decoration: none;  
 }
+
 
 
 body {
@@ -112,9 +113,8 @@ figcaption {
     margin-top: -6px;
 }
 
-
 footer {
-    background-color: #000;
+    background-color: #000; 
     clear: both;
     color: #fff; 
     padding: 30px;  
