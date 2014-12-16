@@ -12,6 +12,10 @@ header h1 a:visited {
 }
 
 
+a:link { 
+        text-decoration: none; 
+}
+
 body {
     font: 16px/24px 'Roboto Slab', serif;
 }
@@ -111,7 +115,8 @@ figcaption {
 footer {
     background-color: #000;
     clear: both;
-    color: #fff;
+    color: #fff; 
+    padding: 5px; 
 }
 
 footer ul {
